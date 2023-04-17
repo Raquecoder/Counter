@@ -1,0 +1,21 @@
+body{
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.counter{
+    margin: 6rem;
+    padding-bottom: 20px;
+    border:2px solid aqua;
+    border-radius: 5px;
+}
+h1{
+    font-size:45px;
+}
+h2{
+    font-size: 80px;
+}
+button{
+    padding:10px, 30px,10px,30px;
+    font-size: medium;
+}
